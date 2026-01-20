@@ -49,9 +49,10 @@ The app uses the following third-party services:
 
 ## Contact Us
 If you have questions about this privacy policy, please contact us at:
-- Email: cyberpatrol@goapolice.gov.in
+- Email: nikhilsavita181511@gmail.com
 - Address: Goa Police Headquarters, Panaji, Goa, India
 
 ---
 
 *Last Updated: January 20, 2026*
+
