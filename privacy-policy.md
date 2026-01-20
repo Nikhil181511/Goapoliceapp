@@ -28,7 +28,7 @@ The app uses the following third-party services:
 ## User Rights
 - You may request deletion of your account and associated data at any time.
 - You have the right to access, correct, or update your personal information.
-- Contact us at cyberpatrol@goapolice.gov.in for privacy-related requests.
+- Contact us at nikhilsavita181511@gmail.com for privacy-related requests.
 
 ## Data Retention
 - We retain your data only for as long as necessary to provide our services.
@@ -55,4 +55,5 @@ If you have questions about this privacy policy, please contact us at:
 ---
 
 *Last Updated: January 20, 2026*
+
 
